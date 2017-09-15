@@ -1,9 +1,11 @@
 <div class="row">
-    {actor}
+    
         <div class="span4">
                 <a href="/welcome/show/{key}">
-                        <img src="/pix/{who}.jpg" title="{who} plays {role}"/>
+                        <img src="/pix/{role}.jpg" title="{who} plays {role}"/>
                 </a>
+            <h1>{role}</h1>
+            <p>Famous quote: "{what}"</p>
         </div>
-    {/actor}
+    
 </div>
