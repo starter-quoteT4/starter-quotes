@@ -1,6 +1,11 @@
 # Change log
 ## Authors: Darren Chan, Jeffrey Nguyen
 
+# v1.0.1c - Septemeber 17,2017
+**Added**
+Tool tip added
+
+
 # v1.0.1b - Septemeber 17,2017
 **Added**
 justin bieber quote and photo
